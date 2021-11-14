@@ -1,4 +1,4 @@
-# Upgrades Mix
+# Upgrades Smart Contracts with Proxy
 
 <br/>
 <p align="center">
