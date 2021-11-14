@@ -4,6 +4,8 @@
 <p align="center">
 <a href="https://blog.openzeppelin.com/proxy-patterns/" target="_blank">
 
+<img src="https://github.com/juliocslima/contract-upgrade-proxy/blob/main/images/proxy-pattern.png" width="400" alt="OpenZeppelin Proxy logo">
+
 </a>
 </p>
 <br/>
